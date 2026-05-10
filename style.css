@@ -181,6 +181,10 @@ h1 {
   transition: 0.3s ease;
 
   border: 2px solid #ffcc00;
+
+  text-decoration: none;
+  
+  color: white;
 }
 
 .card:hover {
